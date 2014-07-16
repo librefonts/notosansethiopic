@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name=".null"/><!-- &lt;control> -->
+      <map code="0xd" name="nonmarkingreturn"/><!-- &lt;control> -->
+      <map code="0x20" name="space"/><!-- SPACE -->
+      <map code="0xa0" name="space"/><!-- NO-BREAK SPACE -->
+      <map code="0x1200" name="uni1200"/><!-- ETHIOPIC SYLLABLE HA -->
+      <map code="0x1201" name="uni1201"/><!-- ETHIOPIC SYLLABLE HU -->
+      <map code="0x1202" name="uni1202"/><!-- ETHIOPIC SYLLABLE HI -->
+      <map code="0x1203" name="uni1203"/><!-- ETHIOPIC SYLLABLE HAA -->
+      <map code="0x1204" name="uni1204"/><!-- ETHIOPIC SYLLABLE HEE -->
+      <map code="0x1205" name="uni1205"/><!-- ETHIOPIC SYLLABLE HE -->
+      <map code="0x1206" name="uni1206"/><!-- ETHIOPIC SYLLABLE HO -->
+      <map code="0x1207" name="uni1207"/><!-- ETHIOPIC SYLLABLE HOA -->
+      <map code="0x1208" name="uni1208"/><!-- ETHIOPIC SYLLABLE LA -->
+      <map code="0x1209" name="uni1209"/><!-- ETHIOPIC SYLLABLE LU -->
+      <map code="0x120a" name="uni120A"/><!-- ETHIOPIC SYLLABLE LI -->
+      <map code="0x120b" name="uni120B"/><!-- ETHIOPIC SYLLABLE LAA -->
+      <map code="0x120c" name="uni120C"/><!-- ETHIOPIC SYLLABLE LEE -->
+      <map code="0x120d" name="uni120D"/><!-- ETHIOPIC SYLLABLE LE -->
+      <map code="0x120e" name="uni120E"/><!-- ETHIOPIC SYLLABLE LO -->
+      <map code="0x120f" name="uni120F"/><!-- ETHIOPIC SYLLABLE LWA -->
+      <map code="0x1210" name="uni1210"/><!-- ETHIOPIC SYLLABLE HHA -->
+      <map code="0x1211" name="uni1211"/><!-- ETHIOPIC SYLLABLE HHU -->
+      <map code="0x1212" name="uni1212"/><!-- ETHIOPIC SYLLABLE HHI -->
+      <map code="0x1213" name="uni1213"/><!-- ETHIOPIC SYLLABLE HHAA -->
+      <map code="0x1214" name="uni1214"/><!-- ETHIOPIC SYLLABLE HHEE -->
+      <map code="0x1215" name="uni1215"/><!-- ETHIOPIC SYLLABLE HHE -->
+      <map code="0x1216" name="uni1216"/><!-- ETHIOPIC SYLLABLE HHO -->
+      <map code="0x1217" name="uni1217"/><!-- ETHIOPIC SYLLABLE HHWA -->
+      <map code="0x1218" name="uni1218"/><!-- ETHIOPIC SYLLABLE MA -->
+      <map code="0x1219" name="uni1219"/><!-- ETHIOPIC SYLLABLE MU -->
+      <map code="0x121a" name="uni121A"/><!-- ETHIOPIC SYLLABLE MI -->
+      <map code="0x121b" name="uni121B"/><!-- ETHIOPIC SYLLABLE MAA -->
+      <map code="0x121c" name="uni121C"/><!-- ETHIOPIC SYLLABLE MEE -->
+      <map code="0x121d" name="uni121D"/><!-- ETHIOPIC SYLLABLE ME -->
+      <map code="0x121e" name="uni121E"/><!-- ETHIOPIC SYLLABLE MO -->
+      <map code="0x121f" name="uni121F"/><!-- ETHIOPIC SYLLABLE MWA -->
+      <map code="0x1220" name="uni1220"/><!-- ETHIOPIC SYLLABLE SZA -->
+      <map code="0x1221" name="uni1221"/><!-- ETHIOPIC SYLLABLE SZU -->
+      <map code="0x1222" name="uni1222"/><!-- ETHIOPIC SYLLABLE SZI -->
+      <map code="0x1223" name="uni1223"/><!-- ETHIOPIC SYLLABLE SZAA -->
+      <map code="0x1224" name="uni1224"/><!-- ETHIOPIC SYLLABLE SZEE -->
+      <map code="0x1225" name="uni1225"/><!-- ETHIOPIC SYLLABLE SZE -->
+      <map code="0x1226" name="uni1226"/><!-- ETHIOPIC SYLLABLE SZO -->
+      <map code="0x1227" name="uni1227"/><!-- ETHIOPIC SYLLABLE SZWA -->
+      <map code="0x1228" name="uni1228"/><!-- ETHIOPIC SYLLABLE RA -->
+      <map code="0x1229" name="uni1229"/><!-- ETHIOPIC SYLLABLE RU -->
+      <map code="0x122a" name="uni122A"/><!-- ETHIOPIC SYLLABLE RI -->
+      <map code="0x122b" name="uni122B"/><!-- ETHIOPIC SYLLABLE RAA -->
+      <map code="0x122c" name="uni122C"/><!-- ETHIOPIC SYLLABLE REE -->
+      <map code="0x122d" name="uni122D"/><!-- ETHIOPIC SYLLABLE RE -->
+      <map code="0x122e" name="uni122E"/><!-- ETHIOPIC SYLLABLE RO -->
+      <map code="0x122f" name="uni122F"/><!-- ETHIOPIC SYLLABLE RWA -->
+      <map code="0x1230" name="uni1230"/><!-- ETHIOPIC SYLLABLE SA -->
+      <map code="0x1231" name="uni1231"/><!-- ETHIOPIC SYLLABLE SU -->
+      <map code="0x1232" name="uni1232"/><!-- ETHIOPIC SYLLABLE SI -->
+      <map code="0x1233" name="uni1233"/><!-- ETHIOPIC SYLLABLE SAA -->
+      <map code="0x1234" name="uni1234"/><!-- ETHIOPIC SYLLABLE SEE -->
+      <map code="0x1235" name="uni1235"/><!-- ETHIOPIC SYLLABLE SE -->
+      <map code="0x1236" name="uni1236"/><!-- ETHIOPIC SYLLABLE SO -->
+      <map code="0x1237" name="uni1237"/><!-- ETHIOPIC SYLLABLE SWA -->
+      <map code="0x1238" name="uni1238"/><!-- ETHIOPIC SYLLABLE SHA -->
+      <map code="0x1239" name="uni1239"/><!-- ETHIOPIC SYLLABLE SHU -->
+      <map code="0x123a" name="uni123A"/><!-- ETHIOPIC SYLLABLE SHI -->
+      <map code="0x123b" name="uni123B"/><!-- ETHIOPIC SYLLABLE SHAA -->
+      <map code="0x123c" name="uni123C"/><!-- ETHIOPIC SYLLABLE SHEE -->
+      <map code="0x123d" name="uni123D"/><!-- ETHIOPIC SYLLABLE SHE -->
+      <map code="0x123e" name="uni123E"/><!-- ETHIOPIC SYLLABLE SHO -->
+      <map code="0x123f" name="uni123F"/><!-- ETHIOPIC SYLLABLE SHWA -->
+      <map code="0x1240" name="uni1240"/><!-- ETHIOPIC SYLLABLE QA -->
+      <map code="0x1241" name="uni1241"/><!-- ETHIOPIC SYLLABLE QU -->
+      <map code="0x1242" name="uni1242"/><!-- ETHIOPIC SYLLABLE QI -->
+      <map code="0x1243" name="uni1243"/><!-- ETHIOPIC SYLLABLE QAA -->
+      <map code="0x1244" name="uni1244"/><!-- ETHIOPIC SYLLABLE QEE -->
+      <map code="0x1245" name="uni1245"/><!-- ETHIOPIC SYLLABLE QE -->
+      <map code="0x1246" name="uni1246"/><!-- ETHIOPIC SYLLABLE QO -->
+      <map code="0x1247" name="uni1247"/><!-- ETHIOPIC SYLLABLE QOA -->
+      <map code="0x1248" name="uni1248"/><!-- ETHIOPIC SYLLABLE QWA -->
+      <map code="0x124a" name="uni124A"/><!-- ETHIOPIC SYLLABLE QWI -->
+      <map code="0x124b" name="uni124B"/><!-- ETHIOPIC SYLLABLE QWAA -->
+      <map code="0x124c" name="uni124C"/><!-- ETHIOPIC SYLLABLE QWEE -->
+      <map code="0x124d" name="uni124D"/><!-- ETHIOPIC SYLLABLE QWE -->
+      <map code="0x1250" name="uni1250"/><!-- ETHIOPIC SYLLABLE QHA -->
+      <map code="0x1251" name="uni1251"/><!-- ETHIOPIC SYLLABLE QHU -->
+      <map code="0x1252" name="uni1252"/><!-- ETHIOPIC SYLLABLE QHI -->
+      <map code="0x1253" name="uni1253"/><!-- ETHIOPIC SYLLABLE QHAA -->
+      <map code="0x1254" name="uni1254"/><!-- ETHIOPIC SYLLABLE QHEE -->
+      <map code="0x1255" name="uni1255"/><!-- ETHIOPIC SYLLABLE QHE -->
+      <map code="0x1256" name="uni1256"/><!-- ETHIOPIC SYLLABLE QHO -->
+      <map code="0x1258" name="uni1258"/><!-- ETHIOPIC SYLLABLE QHWA -->
+      <map code="0x125a" name="uni125A"/><!-- ETHIOPIC SYLLABLE QHWI -->
+      <map code="0x125b" name="uni125B"/><!-- ETHIOPIC SYLLABLE QHWAA -->
+      <map code="0x125c" name="uni125C"/><!-- ETHIOPIC SYLLABLE QHWEE -->
+      <map code="0x125d" name="uni125D"/><!-- ETHIOPIC SYLLABLE QHWE -->
+      <map code="0x1260" name="uni1260"/><!-- ETHIOPIC SYLLABLE BA -->
+      <map code="0x1261" name="uni1261"/><!-- ETHIOPIC SYLLABLE BU -->
+      <map code="0x1262" name="uni1262"/><!-- ETHIOPIC SYLLABLE BI -->
+      <map code="0x1263" name="uni1263"/><!-- ETHIOPIC SYLLABLE BAA -->
+      <map code="0x1264" name="uni1264"/><!-- ETHIOPIC SYLLABLE BEE -->
+      <map code="0x1265" name="uni1265"/><!-- ETHIOPIC SYLLABLE BE -->
+      <map code="0x1266" name="uni1266"/><!-- ETHIOPIC SYLLABLE BO -->
+      <map code="0x1267" name="uni1267"/><!-- ETHIOPIC SYLLABLE BWA -->
+      <map code="0x1268" name="uni1268"/><!-- ETHIOPIC SYLLABLE VA -->
+      <map code="0x1269" name="uni1269"/><!-- ETHIOPIC SYLLABLE VU -->
+      <map code="0x126a" name="uni126A"/><!-- ETHIOPIC SYLLABLE VI -->
+      <map code="0x126b" name="uni126B"/><!-- ETHIOPIC SYLLABLE VAA -->
+      <map code="0x126c" name="uni126C"/><!-- ETHIOPIC SYLLABLE VEE -->
+      <map code="0x126d" name="uni126D"/><!-- ETHIOPIC SYLLABLE VE -->
+      <map code="0x126e" name="uni126E"/><!-- ETHIOPIC SYLLABLE VO -->
+      <map code="0x126f" name="uni126F"/><!-- ETHIOPIC SYLLABLE VWA -->
+      <map code="0x1270" name="uni1270"/><!-- ETHIOPIC SYLLABLE TA -->
+      <map code="0x1271" name="uni1271"/><!-- ETHIOPIC SYLLABLE TU -->
+      <map code="0x1272" name="uni1272"/><!-- ETHIOPIC SYLLABLE TI -->
+      <map code="0x1273" name="uni1273"/><!-- ETHIOPIC SYLLABLE TAA -->
+      <map code="0x1274" name="uni1274"/><!-- ETHIOPIC SYLLABLE TEE -->
+      <map code="0x1275" name="uni1275"/><!-- ETHIOPIC SYLLABLE TE -->
+      <map code="0x1276" name="uni1276"/><!-- ETHIOPIC SYLLABLE TO -->
+      <map code="0x1277" name="uni1277"/><!-- ETHIOPIC SYLLABLE TWA -->
+      <map code="0x1278" name="uni1278"/><!-- ETHIOPIC SYLLABLE CA -->
+      <map code="0x1279" name="uni1279"/><!-- ETHIOPIC SYLLABLE CU -->
+      <map code="0x127a" name="uni127A"/><!-- ETHIOPIC SYLLABLE CI -->
+      <map code="0x127b" name="uni127B"/><!-- ETHIOPIC SYLLABLE CAA -->
+      <map code="0x127c" name="uni127C"/><!-- ETHIOPIC SYLLABLE CEE -->
+      <map code="0x127d" name="uni127D"/><!-- ETHIOPIC SYLLABLE CE -->
+      <map code="0x127e" name="uni127E"/><!-- ETHIOPIC SYLLABLE CO -->
+      <map code="0x127f" name="uni127F"/><!-- ETHIOPIC SYLLABLE CWA -->
+      <map code="0x1280" name="uni1280"/><!-- ETHIOPIC SYLLABLE XA -->
+      <map code="0x1281" name="uni1281"/><!-- ETHIOPIC SYLLABLE XU -->
+      <map code="0x1282" name="uni1282"/><!-- ETHIOPIC SYLLABLE XI -->
+      <map code="0x1283" name="uni1283"/><!-- ETHIOPIC SYLLABLE XAA -->
+      <map code="0x1284" name="uni1284"/><!-- ETHIOPIC SYLLABLE XEE -->
+      <map code="0x1285" name="uni1285"/><!-- ETHIOPIC SYLLABLE XE -->
+      <map code="0x1286" name="uni1286"/><!-- ETHIOPIC SYLLABLE XO -->
+      <map code="0x1287" name="uni1287"/><!-- ETHIOPIC SYLLABLE XOA -->
+      <map code="0x1288" name="uni1288"/><!-- ETHIOPIC SYLLABLE XWA -->
+      <map code="0x128a" name="uni128A"/><!-- ETHIOPIC SYLLABLE XWI -->
+      <map code="0x128b" name="uni128B"/><!-- ETHIOPIC SYLLABLE XWAA -->
+      <map code="0x128c" name="uni128C"/><!-- ETHIOPIC SYLLABLE XWEE -->
+      <map code="0x128d" name="uni128D"/><!-- ETHIOPIC SYLLABLE XWE -->
+      <map code="0x1290" name="uni1290"/><!-- ETHIOPIC SYLLABLE NA -->
+      <map code="0x1291" name="uni1291"/><!-- ETHIOPIC SYLLABLE NU -->
+      <map code="0x1292" name="uni1292"/><!-- ETHIOPIC SYLLABLE NI -->
+      <map code="0x1293" name="uni1293"/><!-- ETHIOPIC SYLLABLE NAA -->
+      <map code="0x1294" name="uni1294"/><!-- ETHIOPIC SYLLABLE NEE -->
+      <map code="0x1295" name="uni1295"/><!-- ETHIOPIC SYLLABLE NE -->
+      <map code="0x1296" name="uni1296"/><!-- ETHIOPIC SYLLABLE NO -->
+      <map code="0x1297" name="uni1297"/><!-- ETHIOPIC SYLLABLE NWA -->
+      <map code="0x1298" name="uni1298"/><!-- ETHIOPIC SYLLABLE NYA -->
+      <map code="0x1299" name="uni1299"/><!-- ETHIOPIC SYLLABLE NYU -->
+      <map code="0x129a" name="uni129A"/><!-- ETHIOPIC SYLLABLE NYI -->
+      <map code="0x129b" name="uni129B"/><!-- ETHIOPIC SYLLABLE NYAA -->
+      <map code="0x129c" name="uni129C"/><!-- ETHIOPIC SYLLABLE NYEE -->
+      <map code="0x129d" name="uni129D"/><!-- ETHIOPIC SYLLABLE NYE -->
+      <map code="0x129e" name="uni129E"/><!-- ETHIOPIC SYLLABLE NYO -->
+      <map code="0x129f" name="uni129F"/><!-- ETHIOPIC SYLLABLE NYWA -->
+      <map code="0x12a0" name="uni12A0"/><!-- ETHIOPIC SYLLABLE GLOTTAL A -->
+      <map code="0x12a1" name="uni12A1"/><!-- ETHIOPIC SYLLABLE GLOTTAL U -->
+      <map code="0x12a2" name="uni12A2"/><!-- ETHIOPIC SYLLABLE GLOTTAL I -->
+      <map code="0x12a3" name="uni12A3"/><!-- ETHIOPIC SYLLABLE GLOTTAL AA -->
+      <map code="0x12a4" name="uni12A4"/><!-- ETHIOPIC SYLLABLE GLOTTAL EE -->
+      <map code="0x12a5" name="uni12A5"/><!-- ETHIOPIC SYLLABLE GLOTTAL E -->
+      <map code="0x12a6" name="uni12A6"/><!-- ETHIOPIC SYLLABLE GLOTTAL O -->
+      <map code="0x12a7" name="uni12A7"/><!-- ETHIOPIC SYLLABLE GLOTTAL WA -->
+      <map code="0x12a8" name="uni12A8"/><!-- ETHIOPIC SYLLABLE KA -->
+      <map code="0x12a9" name="uni12A9"/><!-- ETHIOPIC SYLLABLE KU -->
+      <map code="0x12aa" name="uni12AA"/><!-- ETHIOPIC SYLLABLE KI -->
+      <map code="0x12ab" name="uni12AB"/><!-- ETHIOPIC SYLLABLE KAA -->
+      <map code="0x12ac" name="uni12AC"/><!-- ETHIOPIC SYLLABLE KEE -->
+      <map code="0x12ad" name="uni12AD"/><!-- ETHIOPIC SYLLABLE KE -->
+      <map code="0x12ae" name="uni12AE"/><!-- ETHIOPIC SYLLABLE KO -->
+      <map code="0x12af" name="uni12AF"/><!-- ETHIOPIC SYLLABLE KOA -->
+      <map code="0x12b0" name="uni12B0"/><!-- ETHIOPIC SYLLABLE KWA -->
+      <map code="0x12b2" name="uni12B2"/><!-- ETHIOPIC SYLLABLE KWI -->
+      <map code="0x12b3" name="uni12B3"/><!-- ETHIOPIC SYLLABLE KWAA -->
+      <map code="0x12b4" name="uni12B4"/><!-- ETHIOPIC SYLLABLE KWEE -->
+      <map code="0x12b5" name="uni12B5"/><!-- ETHIOPIC SYLLABLE KWE -->
+      <map code="0x12b8" name="uni12B8"/><!-- ETHIOPIC SYLLABLE KXA -->
+      <map code="0x12b9" name="uni12B9"/><!-- ETHIOPIC SYLLABLE KXU -->
+      <map code="0x12ba" name="uni12BA"/><!-- ETHIOPIC SYLLABLE KXI -->
+      <map code="0x12bb" name="uni12BB"/><!-- ETHIOPIC SYLLABLE KXAA -->
+      <map code="0x12bc" name="uni12BC"/><!-- ETHIOPIC SYLLABLE KXEE -->
+      <map code="0x12bd" name="uni12BD"/><!-- ETHIOPIC SYLLABLE KXE -->
+      <map code="0x12be" name="uni12BE"/><!-- ETHIOPIC SYLLABLE KXO -->
+      <map code="0x12c0" name="uni12C0"/><!-- ETHIOPIC SYLLABLE KXWA -->
+      <map code="0x12c2" name="uni12C2"/><!-- ETHIOPIC SYLLABLE KXWI -->
+      <map code="0x12c3" name="uni12C3"/><!-- ETHIOPIC SYLLABLE KXWAA -->
+      <map code="0x12c4" name="uni12C4"/><!-- ETHIOPIC SYLLABLE KXWEE -->
+      <map code="0x12c5" name="uni12C5"/><!-- ETHIOPIC SYLLABLE KXWE -->
+      <map code="0x12c8" name="uni12C8"/><!-- ETHIOPIC SYLLABLE WA -->
+      <map code="0x12c9" name="uni12C9"/><!-- ETHIOPIC SYLLABLE WU -->
+      <map code="0x12ca" name="uni12CA"/><!-- ETHIOPIC SYLLABLE WI -->
+      <map code="0x12cb" name="uni12CB"/><!-- ETHIOPIC SYLLABLE WAA -->
+      <map code="0x12cc" name="uni12CC"/><!-- ETHIOPIC SYLLABLE WEE -->
+      <map code="0x12cd" name="uni12CD"/><!-- ETHIOPIC SYLLABLE WE -->
+      <map code="0x12ce" name="uni12CE"/><!-- ETHIOPIC SYLLABLE WO -->
+      <map code="0x12cf" name="uni12CF"/><!-- ETHIOPIC SYLLABLE WOA -->
+      <map code="0x12d0" name="uni12D0"/><!-- ETHIOPIC SYLLABLE PHARYNGEAL A -->
+      <map code="0x12d1" name="uni12D1"/><!-- ETHIOPIC SYLLABLE PHARYNGEAL U -->
+      <map code="0x12d2" name="uni12D2"/><!-- ETHIOPIC SYLLABLE PHARYNGEAL I -->
+      <map code="0x12d3" name="uni12D3"/><!-- ETHIOPIC SYLLABLE PHARYNGEAL AA -->
+      <map code="0x12d4" name="uni12D4"/><!-- ETHIOPIC SYLLABLE PHARYNGEAL EE -->
+      <map code="0x12d5" name="uni12D5"/><!-- ETHIOPIC SYLLABLE PHARYNGEAL E -->
+      <map code="0x12d6" name="uni12D6"/><!-- ETHIOPIC SYLLABLE PHARYNGEAL O -->
+      <map code="0x12d8" name="uni12D8"/><!-- ETHIOPIC SYLLABLE ZA -->
+      <map code="0x12d9" name="uni12D9"/><!-- ETHIOPIC SYLLABLE ZU -->
+      <map code="0x12da" name="uni12DA"/><!-- ETHIOPIC SYLLABLE ZI -->
+      <map code="0x12db" name="uni12DB"/><!-- ETHIOPIC SYLLABLE ZAA -->
+      <map code="0x12dc" name="uni12DC"/><!-- ETHIOPIC SYLLABLE ZEE -->
+      <map code="0x12dd" name="uni12DD"/><!-- ETHIOPIC SYLLABLE ZE -->
+      <map code="0x12de" name="uni12DE"/><!-- ETHIOPIC SYLLABLE ZO -->
+      <map code="0x12df" name="uni12DF"/><!-- ETHIOPIC SYLLABLE ZWA -->
+      <map code="0x12e0" name="uni12E0"/><!-- ETHIOPIC SYLLABLE ZHA -->
+      <map code="0x12e1" name="uni12E1"/><!-- ETHIOPIC SYLLABLE ZHU -->
+      <map code="0x12e2" name="uni12E2"/><!-- ETHIOPIC SYLLABLE ZHI -->
+      <map code="0x12e3" name="uni12E3"/><!-- ETHIOPIC SYLLABLE ZHAA -->
+      <map code="0x12e4" name="uni12E4"/><!-- ETHIOPIC SYLLABLE ZHEE -->
+      <map code="0x12e5" name="uni12E5"/><!-- ETHIOPIC SYLLABLE ZHE -->
+      <map code="0x12e6" name="uni12E6"/><!-- ETHIOPIC SYLLABLE ZHO -->
+      <map code="0x12e7" name="uni12E7"/><!-- ETHIOPIC SYLLABLE ZHWA -->
+      <map code="0x12e8" name="uni12E8"/><!-- ETHIOPIC SYLLABLE YA -->
+      <map code="0x12e9" name="uni12E9"/><!-- ETHIOPIC SYLLABLE YU -->
+      <map code="0x12ea" name="uni12EA"/><!-- ETHIOPIC SYLLABLE YI -->
+      <map code="0x12eb" name="uni12EB"/><!-- ETHIOPIC SYLLABLE YAA -->
+      <map code="0x12ec" name="uni12EC"/><!-- ETHIOPIC SYLLABLE YEE -->
+      <map code="0x12ed" name="uni12ED"/><!-- ETHIOPIC SYLLABLE YE -->
+      <map code="0x12ee" name="uni12EE"/><!-- ETHIOPIC SYLLABLE YO -->
+      <map code="0x12ef" name="uni12EF"/><!-- ETHIOPIC SYLLABLE YOA -->
+      <map code="0x12f0" name="uni12F0"/><!-- ETHIOPIC SYLLABLE DA -->
+      <map code="0x12f1" name="uni12F1"/><!-- ETHIOPIC SYLLABLE DU -->
+      <map code="0x12f2" name="uni12F2"/><!-- ETHIOPIC SYLLABLE DI -->
+      <map code="0x12f3" name="uni12F3"/><!-- ETHIOPIC SYLLABLE DAA -->
+      <map code="0x12f4" name="uni12F4"/><!-- ETHIOPIC SYLLABLE DEE -->
+      <map code="0x12f5" name="uni12F5"/><!-- ETHIOPIC SYLLABLE DE -->
+      <map code="0x12f6" name="uni12F6"/><!-- ETHIOPIC SYLLABLE DO -->
+      <map code="0x12f7" name="uni12F7"/><!-- ETHIOPIC SYLLABLE DWA -->
+      <map code="0x12f8" name="uni12F8"/><!-- ETHIOPIC SYLLABLE DDA -->
+      <map code="0x12f9" name="uni12F9"/><!-- ETHIOPIC SYLLABLE DDU -->
+      <map code="0x12fa" name="uni12FA"/><!-- ETHIOPIC SYLLABLE DDI -->
+      <map code="0x12fb" name="uni12FB"/><!-- ETHIOPIC SYLLABLE DDAA -->
+      <map code="0x12fc" name="uni12FC"/><!-- ETHIOPIC SYLLABLE DDEE -->
+      <map code="0x12fd" name="uni12FD"/><!-- ETHIOPIC SYLLABLE DDE -->
+      <map code="0x12fe" name="uni12FE"/><!-- ETHIOPIC SYLLABLE DDO -->
+      <map code="0x12ff" name="uni12FF"/><!-- ETHIOPIC SYLLABLE DDWA -->
+      <map code="0x1300" name="uni1300"/><!-- ETHIOPIC SYLLABLE JA -->
+      <map code="0x1301" name="uni1301"/><!-- ETHIOPIC SYLLABLE JU -->
+      <map code="0x1302" name="uni1302"/><!-- ETHIOPIC SYLLABLE JI -->
+      <map code="0x1303" name="uni1303"/><!-- ETHIOPIC SYLLABLE JAA -->
+      <map code="0x1304" name="uni1304"/><!-- ETHIOPIC SYLLABLE JEE -->
+      <map code="0x1305" name="uni1305"/><!-- ETHIOPIC SYLLABLE JE -->
+      <map code="0x1306" name="uni1306"/><!-- ETHIOPIC SYLLABLE JO -->
+      <map code="0x1307" name="uni1307"/><!-- ETHIOPIC SYLLABLE JWA -->
+      <map code="0x1308" name="uni1308"/><!-- ETHIOPIC SYLLABLE GA -->
+      <map code="0x1309" name="uni1309"/><!-- ETHIOPIC SYLLABLE GU -->
+      <map code="0x130a" name="uni130A"/><!-- ETHIOPIC SYLLABLE GI -->
+      <map code="0x130b" name="uni130B"/><!-- ETHIOPIC SYLLABLE GAA -->
+      <map code="0x130c" name="uni130C"/><!-- ETHIOPIC SYLLABLE GEE -->
+      <map code="0x130d" name="uni130D"/><!-- ETHIOPIC SYLLABLE GE -->
+      <map code="0x130e" name="uni130E"/><!-- ETHIOPIC SYLLABLE GO -->
+      <map code="0x130f" name="uni130F"/><!-- ETHIOPIC SYLLABLE GOA -->
+      <map code="0x1310" name="uni1310"/><!-- ETHIOPIC SYLLABLE GWA -->
+      <map code="0x1312" name="uni1312"/><!-- ETHIOPIC SYLLABLE GWI -->
+      <map code="0x1313" name="uni1313"/><!-- ETHIOPIC SYLLABLE GWAA -->
+      <map code="0x1314" name="uni1314"/><!-- ETHIOPIC SYLLABLE GWEE -->
+      <map code="0x1315" name="uni1315"/><!-- ETHIOPIC SYLLABLE GWE -->
+      <map code="0x1318" name="uni1318"/><!-- ETHIOPIC SYLLABLE GGA -->
+      <map code="0x1319" name="uni1319"/><!-- ETHIOPIC SYLLABLE GGU -->
+      <map code="0x131a" name="uni131A"/><!-- ETHIOPIC SYLLABLE GGI -->
+      <map code="0x131b" name="uni131B"/><!-- ETHIOPIC SYLLABLE GGAA -->
+      <map code="0x131c" name="uni131C"/><!-- ETHIOPIC SYLLABLE GGEE -->
+      <map code="0x131d" name="uni131D"/><!-- ETHIOPIC SYLLABLE GGE -->
+      <map code="0x131e" name="uni131E"/><!-- ETHIOPIC SYLLABLE GGO -->
+      <map code="0x131f" name="uni131F"/><!-- ETHIOPIC SYLLABLE GGWAA -->
+      <map code="0x1320" name="uni1320"/><!-- ETHIOPIC SYLLABLE THA -->
+      <map code="0x1321" name="uni1321"/><!-- ETHIOPIC SYLLABLE THU -->
+      <map code="0x1322" name="uni1322"/><!-- ETHIOPIC SYLLABLE THI -->
+      <map code="0x1323" name="uni1323"/><!-- ETHIOPIC SYLLABLE THAA -->
+      <map code="0x1324" name="uni1324"/><!-- ETHIOPIC SYLLABLE THEE -->
+      <map code="0x1325" name="uni1325"/><!-- ETHIOPIC SYLLABLE THE -->
+      <map code="0x1326" name="uni1326"/><!-- ETHIOPIC SYLLABLE THO -->
+      <map code="0x1327" name="uni1327"/><!-- ETHIOPIC SYLLABLE THWA -->
+      <map code="0x1328" name="uni1328"/><!-- ETHIOPIC SYLLABLE CHA -->
+      <map code="0x1329" name="uni1329"/><!-- ETHIOPIC SYLLABLE CHU -->
+      <map code="0x132a" name="uni132A"/><!-- ETHIOPIC SYLLABLE CHI -->
+      <map code="0x132b" name="uni132B"/><!-- ETHIOPIC SYLLABLE CHAA -->
+      <map code="0x132c" name="uni132C"/><!-- ETHIOPIC SYLLABLE CHEE -->
+      <map code="0x132d" name="uni132D"/><!-- ETHIOPIC SYLLABLE CHE -->
+      <map code="0x132e" name="uni132E"/><!-- ETHIOPIC SYLLABLE CHO -->
+      <map code="0x132f" name="uni132F"/><!-- ETHIOPIC SYLLABLE CHWA -->
+      <map code="0x1330" name="uni1330"/><!-- ETHIOPIC SYLLABLE PHA -->
+      <map code="0x1331" name="uni1331"/><!-- ETHIOPIC SYLLABLE PHU -->
+      <map code="0x1332" name="uni1332"/><!-- ETHIOPIC SYLLABLE PHI -->
+      <map code="0x1333" name="uni1333"/><!-- ETHIOPIC SYLLABLE PHAA -->
+      <map code="0x1334" name="uni1334"/><!-- ETHIOPIC SYLLABLE PHEE -->
+      <map code="0x1335" name="uni1335"/><!-- ETHIOPIC SYLLABLE PHE -->
+      <map code="0x1336" name="uni1336"/><!-- ETHIOPIC SYLLABLE PHO -->
+      <map code="0x1337" name="uni1337"/><!-- ETHIOPIC SYLLABLE PHWA -->
+      <map code="0x1338" name="uni1338"/><!-- ETHIOPIC SYLLABLE TSA -->
+      <map code="0x1339" name="uni1339"/><!-- ETHIOPIC SYLLABLE TSU -->
+      <map code="0x133a" name="uni133A"/><!-- ETHIOPIC SYLLABLE TSI -->
+      <map code="0x133b" name="uni133B"/><!-- ETHIOPIC SYLLABLE TSAA -->
+      <map code="0x133c" name="uni133C"/><!-- ETHIOPIC SYLLABLE TSEE -->
+      <map code="0x133d" name="uni133D"/><!-- ETHIOPIC SYLLABLE TSE -->
+      <map code="0x133e" name="uni133E"/><!-- ETHIOPIC SYLLABLE TSO -->
+      <map code="0x133f" name="uni133F"/><!-- ETHIOPIC SYLLABLE TSWA -->
+      <map code="0x1340" name="uni1340"/><!-- ETHIOPIC SYLLABLE TZA -->
+      <map code="0x1341" name="uni1341"/><!-- ETHIOPIC SYLLABLE TZU -->
+      <map code="0x1342" name="uni1342"/><!-- ETHIOPIC SYLLABLE TZI -->
+      <map code="0x1343" name="uni1343"/><!-- ETHIOPIC SYLLABLE TZAA -->
+      <map code="0x1344" name="uni1344"/><!-- ETHIOPIC SYLLABLE TZEE -->
+      <map code="0x1345" name="uni1345"/><!-- ETHIOPIC SYLLABLE TZE -->
+      <map code="0x1346" name="uni1346"/><!-- ETHIOPIC SYLLABLE TZO -->
+      <map code="0x1347" name="uni1347"/><!-- ETHIOPIC SYLLABLE TZOA -->
+      <map code="0x1348" name="uni1348"/><!-- ETHIOPIC SYLLABLE FA -->
+      <map code="0x1349" name="uni1349"/><!-- ETHIOPIC SYLLABLE FU -->
+      <map code="0x134a" name="uni134A"/><!-- ETHIOPIC SYLLABLE FI -->
+      <map code="0x134b" name="uni134B"/><!-- ETHIOPIC SYLLABLE FAA -->
+      <map code="0x134c" name="uni134C"/><!-- ETHIOPIC SYLLABLE FEE -->
+      <map code="0x134d" name="uni134D"/><!-- ETHIOPIC SYLLABLE FE -->
+      <map code="0x134e" name="uni134E"/><!-- ETHIOPIC SYLLABLE FO -->
+      <map code="0x134f" name="uni134F"/><!-- ETHIOPIC SYLLABLE FWA -->
+      <map code="0x1350" name="uni1350"/><!-- ETHIOPIC SYLLABLE PA -->
+      <map code="0x1351" name="uni1351"/><!-- ETHIOPIC SYLLABLE PU -->
+      <map code="0x1352" name="uni1352"/><!-- ETHIOPIC SYLLABLE PI -->
+      <map code="0x1353" name="uni1353"/><!-- ETHIOPIC SYLLABLE PAA -->
+      <map code="0x1354" name="uni1354"/><!-- ETHIOPIC SYLLABLE PEE -->
+      <map code="0x1355" name="uni1355"/><!-- ETHIOPIC SYLLABLE PE -->
+      <map code="0x1356" name="uni1356"/><!-- ETHIOPIC SYLLABLE PO -->
+      <map code="0x1357" name="uni1357"/><!-- ETHIOPIC SYLLABLE PWA -->
+      <map code="0x1358" name="uni1358"/><!-- ETHIOPIC SYLLABLE RYA -->
+      <map code="0x1359" name="uni1359"/><!-- ETHIOPIC SYLLABLE MYA -->
+      <map code="0x135a" name="uni135A"/><!-- ETHIOPIC SYLLABLE FYA -->
+      <map code="0x135d" name="uni135D"/><!-- ???? -->
+      <map code="0x135e" name="uni135E"/><!-- ???? -->
+      <map code="0x135f" name="uni135F"/><!-- ETHIOPIC COMBINING GEMINATION MARK -->
+      <map code="0x1360" name="uni1360"/><!-- ETHIOPIC SECTION MARK -->
+      <map code="0x1361" name="uni1361"/><!-- ETHIOPIC WORDSPACE -->
+      <map code="0x1362" name="uni1362"/><!-- ETHIOPIC FULL STOP -->
+      <map code="0x1363" name="uni1363"/><!-- ETHIOPIC COMMA -->
+      <map code="0x1364" name="uni1364"/><!-- ETHIOPIC SEMICOLON -->
+      <map code="0x1365" name="uni1365"/><!-- ETHIOPIC COLON -->
+      <map code="0x1366" name="uni1366"/><!-- ETHIOPIC PREFACE COLON -->
+      <map code="0x1367" name="uni1367"/><!-- ETHIOPIC QUESTION MARK -->
+      <map code="0x1368" name="uni1368"/><!-- ETHIOPIC PARAGRAPH SEPARATOR -->
+      <map code="0x1369" name="uni1369"/><!-- ETHIOPIC DIGIT ONE -->
+      <map code="0x136a" name="uni136A"/><!-- ETHIOPIC DIGIT TWO -->
+      <map code="0x136b" name="uni136B"/><!-- ETHIOPIC DIGIT THREE -->
+      <map code="0x136c" name="uni136C"/><!-- ETHIOPIC DIGIT FOUR -->
+      <map code="0x136d" name="uni136D"/><!-- ETHIOPIC DIGIT FIVE -->
+      <map code="0x136e" name="uni136E"/><!-- ETHIOPIC DIGIT SIX -->
+      <map code="0x136f" name="uni136F"/><!-- ETHIOPIC DIGIT SEVEN -->
+      <map code="0x1370" name="uni1370"/><!-- ETHIOPIC DIGIT EIGHT -->
+      <map code="0x1371" name="uni1371"/><!-- ETHIOPIC DIGIT NINE -->
+      <map code="0x1372" name="uni1372"/><!-- ETHIOPIC NUMBER TEN -->
+      <map code="0x1373" name="uni1373"/><!-- ETHIOPIC NUMBER TWENTY -->
+      <map code="0x1374" name="uni1374"/><!-- ETHIOPIC NUMBER THIRTY -->
+      <map code="0x1375" name="uni1375"/><!-- ETHIOPIC NUMBER FORTY -->
+      <map code="0x1376" name="uni1376"/><!-- ETHIOPIC NUMBER FIFTY -->
+      <map code="0x1377" name="uni1377"/><!-- ETHIOPIC NUMBER SIXTY -->
+      <map code="0x1378" name="uni1378"/><!-- ETHIOPIC NUMBER SEVENTY -->
+      <map code="0x1379" name="uni1379"/><!-- ETHIOPIC NUMBER EIGHTY -->
+      <map code="0x137a" name="uni137A"/><!-- ETHIOPIC NUMBER NINETY -->
+      <map code="0x137b" name="uni137B"/><!-- ETHIOPIC NUMBER HUNDRED -->
+      <map code="0x137c" name="uni137C"/><!-- ETHIOPIC NUMBER TEN THOUSAND -->
+      <map code="0x1380" name="uni1380"/><!-- ETHIOPIC SYLLABLE SEBATBEIT MWA -->
+      <map code="0x1381" name="uni1381"/><!-- ETHIOPIC SYLLABLE MWI -->
+      <map code="0x1382" name="uni1382"/><!-- ETHIOPIC SYLLABLE MWEE -->
+      <map code="0x1383" name="uni1383"/><!-- ETHIOPIC SYLLABLE MWE -->
+      <map code="0x1384" name="uni1384"/><!-- ETHIOPIC SYLLABLE SEBATBEIT BWA -->
+      <map code="0x1385" name="uni1385"/><!-- ETHIOPIC SYLLABLE BWI -->
+      <map code="0x1386" name="uni1386"/><!-- ETHIOPIC SYLLABLE BWEE -->
+      <map code="0x1387" name="uni1387"/><!-- ETHIOPIC SYLLABLE BWE -->
+      <map code="0x1388" name="uni1388"/><!-- ETHIOPIC SYLLABLE SEBATBEIT FWA -->
+      <map code="0x1389" name="uni1389"/><!-- ETHIOPIC SYLLABLE FWI -->
+      <map code="0x138a" name="uni138A"/><!-- ETHIOPIC SYLLABLE FWEE -->
+      <map code="0x138b" name="uni138B"/><!-- ETHIOPIC SYLLABLE FWE -->
+      <map code="0x138c" name="uni138C"/><!-- ETHIOPIC SYLLABLE SEBATBEIT PWA -->
+      <map code="0x138d" name="uni138D"/><!-- ETHIOPIC SYLLABLE PWI -->
+      <map code="0x138e" name="uni138E"/><!-- ETHIOPIC SYLLABLE PWEE -->
+      <map code="0x138f" name="uni138F"/><!-- ETHIOPIC SYLLABLE PWE -->
+      <map code="0x1390" name="uni1390"/><!-- ETHIOPIC TONAL MARK YIZET -->
+      <map code="0x1391" name="uni1391"/><!-- ETHIOPIC TONAL MARK DERET -->
+      <map code="0x1392" name="uni1392"/><!-- ETHIOPIC TONAL MARK RIKRIK -->
+      <map code="0x1393" name="uni1393"/><!-- ETHIOPIC TONAL MARK SHORT RIKRIK -->
+      <map code="0x1394" name="uni1394"/><!-- ETHIOPIC TONAL MARK DIFAT -->
+      <map code="0x1395" name="uni1395"/><!-- ETHIOPIC TONAL MARK KENAT -->
+      <map code="0x1396" name="uni1396"/><!-- ETHIOPIC TONAL MARK CHIRET -->
+      <map code="0x1397" name="uni1397"/><!-- ETHIOPIC TONAL MARK HIDET -->
+      <map code="0x1398" name="uni1398"/><!-- ETHIOPIC TONAL MARK DERET-HIDET -->
+      <map code="0x1399" name="uni1399"/><!-- ETHIOPIC TONAL MARK KURT -->
+      <map code="0x2d80" name="uni2D80"/><!-- ETHIOPIC SYLLABLE LOA -->
+      <map code="0x2d81" name="uni2D81"/><!-- ETHIOPIC SYLLABLE MOA -->
+      <map code="0x2d82" name="uni2D82"/><!-- ETHIOPIC SYLLABLE ROA -->
+      <map code="0x2d83" name="uni2D83"/><!-- ETHIOPIC SYLLABLE SOA -->
+      <map code="0x2d84" name="uni2D84"/><!-- ETHIOPIC SYLLABLE SHOA -->
+      <map code="0x2d85" name="uni2D85"/><!-- ETHIOPIC SYLLABLE BOA -->
+      <map code="0x2d86" name="uni2D86"/><!-- ETHIOPIC SYLLABLE TOA -->
+      <map code="0x2d87" name="uni2D87"/><!-- ETHIOPIC SYLLABLE COA -->
+      <map code="0x2d88" name="uni2D88"/><!-- ETHIOPIC SYLLABLE NOA -->
+      <map code="0x2d89" name="uni2D89"/><!-- ETHIOPIC SYLLABLE NYOA -->
+      <map code="0x2d8a" name="uni2D8A"/><!-- ETHIOPIC SYLLABLE GLOTTAL OA -->
+      <map code="0x2d8b" name="uni2D8B"/><!-- ETHIOPIC SYLLABLE ZOA -->
+      <map code="0x2d8c" name="uni2D8C"/><!-- ETHIOPIC SYLLABLE DOA -->
+      <map code="0x2d8d" name="uni2D8D"/><!-- ETHIOPIC SYLLABLE DDOA -->
+      <map code="0x2d8e" name="uni2D8E"/><!-- ETHIOPIC SYLLABLE JOA -->
+      <map code="0x2d8f" name="uni2D8F"/><!-- ETHIOPIC SYLLABLE THOA -->
+      <map code="0x2d90" name="uni2D90"/><!-- ETHIOPIC SYLLABLE CHOA -->
+      <map code="0x2d91" name="uni2D91"/><!-- ETHIOPIC SYLLABLE PHOA -->
+      <map code="0x2d92" name="uni2D92"/><!-- ETHIOPIC SYLLABLE POA -->
+      <map code="0x2d93" name="uni2D93"/><!-- ETHIOPIC SYLLABLE GGWA -->
+      <map code="0x2d94" name="uni2D94"/><!-- ETHIOPIC SYLLABLE GGWI -->
+      <map code="0x2d95" name="uni2D95"/><!-- ETHIOPIC SYLLABLE GGWEE -->
+      <map code="0x2d96" name="uni2D96"/><!-- ETHIOPIC SYLLABLE GGWE -->
+      <map code="0x2da0" name="uni2DA0"/><!-- ETHIOPIC SYLLABLE SSA -->
+      <map code="0x2da1" name="uni2DA1"/><!-- ETHIOPIC SYLLABLE SSU -->
+      <map code="0x2da2" name="uni2DA2"/><!-- ETHIOPIC SYLLABLE SSI -->
+      <map code="0x2da3" name="uni2DA3"/><!-- ETHIOPIC SYLLABLE SSAA -->
+      <map code="0x2da4" name="uni2DA4"/><!-- ETHIOPIC SYLLABLE SSEE -->
+      <map code="0x2da5" name="uni2DA5"/><!-- ETHIOPIC SYLLABLE SSE -->
+      <map code="0x2da6" name="uni2DA6"/><!-- ETHIOPIC SYLLABLE SSO -->
+      <map code="0x2da8" name="uni2DA8"/><!-- ETHIOPIC SYLLABLE CCA -->
+      <map code="0x2da9" name="uni2DA9"/><!-- ETHIOPIC SYLLABLE CCU -->
+      <map code="0x2daa" name="uni2DAA"/><!-- ETHIOPIC SYLLABLE CCI -->
+      <map code="0x2dab" name="uni2DAB"/><!-- ETHIOPIC SYLLABLE CCAA -->
+      <map code="0x2dac" name="uni2DAC"/><!-- ETHIOPIC SYLLABLE CCEE -->
+      <map code="0x2dad" name="uni2DAD"/><!-- ETHIOPIC SYLLABLE CCE -->
+      <map code="0x2dae" name="uni2DAE"/><!-- ETHIOPIC SYLLABLE CCO -->
+      <map code="0x2db0" name="uni2DB0"/><!-- ETHIOPIC SYLLABLE ZZA -->
+      <map code="0x2db1" name="uni2DB1"/><!-- ETHIOPIC SYLLABLE ZZU -->
+      <map code="0x2db2" name="uni2DB2"/><!-- ETHIOPIC SYLLABLE ZZI -->
+      <map code="0x2db3" name="uni2DB3"/><!-- ETHIOPIC SYLLABLE ZZAA -->
+      <map code="0x2db4" name="uni2DB4"/><!-- ETHIOPIC SYLLABLE ZZEE -->
+      <map code="0x2db5" name="uni2DB5"/><!-- ETHIOPIC SYLLABLE ZZE -->
+      <map code="0x2db6" name="uni2DB6"/><!-- ETHIOPIC SYLLABLE ZZO -->
+      <map code="0x2db8" name="uni2DB8"/><!-- ETHIOPIC SYLLABLE CCHA -->
+      <map code="0x2db9" name="uni2DB9"/><!-- ETHIOPIC SYLLABLE CCHU -->
+      <map code="0x2dba" name="uni2DBA"/><!-- ETHIOPIC SYLLABLE CCHI -->
+      <map code="0x2dbb" name="uni2DBB"/><!-- ETHIOPIC SYLLABLE CCHAA -->
+      <map code="0x2dbc" name="uni2DBC"/><!-- ETHIOPIC SYLLABLE CCHEE -->
+      <map code="0x2dbd" name="uni2DBD"/><!-- ETHIOPIC SYLLABLE CCHE -->
+      <map code="0x2dbe" name="uni2DBE"/><!-- ETHIOPIC SYLLABLE CCHO -->
+      <map code="0x2dc0" name="uni2DC0"/><!-- ETHIOPIC SYLLABLE QYA -->
+      <map code="0x2dc1" name="uni2DC1"/><!-- ETHIOPIC SYLLABLE QYU -->
+      <map code="0x2dc2" name="uni2DC2"/><!-- ETHIOPIC SYLLABLE QYI -->
+      <map code="0x2dc3" name="uni2DC3"/><!-- ETHIOPIC SYLLABLE QYAA -->
+      <map code="0x2dc4" name="uni2DC4"/><!-- ETHIOPIC SYLLABLE QYEE -->
+      <map code="0x2dc5" name="uni2DC5"/><!-- ETHIOPIC SYLLABLE QYE -->
+      <map code="0x2dc6" name="uni2DC6"/><!-- ETHIOPIC SYLLABLE QYO -->
+      <map code="0x2dc8" name="uni2DC8"/><!-- ETHIOPIC SYLLABLE KYA -->
+      <map code="0x2dc9" name="uni2DC9"/><!-- ETHIOPIC SYLLABLE KYU -->
+      <map code="0x2dca" name="uni2DCA"/><!-- ETHIOPIC SYLLABLE KYI -->
+      <map code="0x2dcb" name="uni2DCB"/><!-- ETHIOPIC SYLLABLE KYAA -->
+      <map code="0x2dcc" name="uni2DCC"/><!-- ETHIOPIC SYLLABLE KYEE -->
+      <map code="0x2dcd" name="uni2DCD"/><!-- ETHIOPIC SYLLABLE KYE -->
+      <map code="0x2dce" name="uni2DCE"/><!-- ETHIOPIC SYLLABLE KYO -->
+      <map code="0x2dd0" name="uni2DD0"/><!-- ETHIOPIC SYLLABLE XYA -->
+      <map code="0x2dd1" name="uni2DD1"/><!-- ETHIOPIC SYLLABLE XYU -->
+      <map code="0x2dd2" name="uni2DD2"/><!-- ETHIOPIC SYLLABLE XYI -->
+      <map code="0x2dd3" name="uni2DD3"/><!-- ETHIOPIC SYLLABLE XYAA -->
+      <map code="0x2dd4" name="uni2DD4"/><!-- ETHIOPIC SYLLABLE XYEE -->
+      <map code="0x2dd5" name="uni2DD5"/><!-- ETHIOPIC SYLLABLE XYE -->
+      <map code="0x2dd6" name="uni2DD6"/><!-- ETHIOPIC SYLLABLE XYO -->
+      <map code="0x2dd8" name="uni2DD8"/><!-- ETHIOPIC SYLLABLE GYA -->
+      <map code="0x2dd9" name="uni2DD9"/><!-- ETHIOPIC SYLLABLE GYU -->
+      <map code="0x2dda" name="uni2DDA"/><!-- ETHIOPIC SYLLABLE GYI -->
+      <map code="0x2ddb" name="uni2DDB"/><!-- ETHIOPIC SYLLABLE GYAA -->
+      <map code="0x2ddc" name="uni2DDC"/><!-- ETHIOPIC SYLLABLE GYEE -->
+      <map code="0x2ddd" name="uni2DDD"/><!-- ETHIOPIC SYLLABLE GYE -->
+      <map code="0x2dde" name="uni2DDE"/><!-- ETHIOPIC SYLLABLE GYO -->
+      <map code="0xab01" name="uniAB01"/><!-- ???? -->
+      <map code="0xab02" name="uniAB02"/><!-- ???? -->
+      <map code="0xab03" name="uniAB03"/><!-- ???? -->
+      <map code="0xab04" name="uniAB04"/><!-- ???? -->
+      <map code="0xab05" name="uniAB05"/><!-- ???? -->
+      <map code="0xab06" name="uniAB06"/><!-- ???? -->
+      <map code="0xab09" name="uniAB09"/><!-- ???? -->
+      <map code="0xab0a" name="uniAB0A"/><!-- ???? -->
+      <map code="0xab0b" name="uniAB0B"/><!-- ???? -->
+      <map code="0xab0c" name="uniAB0C"/><!-- ???? -->
+      <map code="0xab0d" name="uniAB0D"/><!-- ???? -->
+      <map code="0xab0e" name="uniAB0E"/><!-- ???? -->
+      <map code="0xab11" name="uniAB11"/><!-- ???? -->
+      <map code="0xab12" name="uniAB12"/><!-- ???? -->
+      <map code="0xab13" name="uniAB13"/><!-- ???? -->
+      <map code="0xab14" name="uniAB14"/><!-- ???? -->
+      <map code="0xab15" name="uniAB15"/><!-- ???? -->
+      <map code="0xab16" name="uniAB16"/><!-- ???? -->
+      <map code="0xab20" name="uniAB20"/><!-- ???? -->
+      <map code="0xab21" name="uniAB21"/><!-- ???? -->
+      <map code="0xab22" name="uniAB22"/><!-- ???? -->
+      <map code="0xab23" name="uniAB23"/><!-- ???? -->
+      <map code="0xab24" name="uniAB24"/><!-- ???? -->
+      <map code="0xab25" name="uniAB25"/><!-- ???? -->
+      <map code="0xab26" name="uniAB26"/><!-- ???? -->
+      <map code="0xab28" name="uniAB28"/><!-- ???? -->
+      <map code="0xab29" name="uniAB29"/><!-- ???? -->
+      <map code="0xab2a" name="uniAB2A"/><!-- ???? -->
+      <map code="0xab2b" name="uniAB2B"/><!-- ???? -->
+      <map code="0xab2c" name="uniAB2C"/><!-- ???? -->
+      <map code="0xab2d" name="uniAB2D"/><!-- ???? -->
+      <map code="0xab2e" name="uniAB2E"/><!-- ???? -->
+      <map code="0xfeff" name=".null"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=2 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="ethi"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+      <ScriptRecord index="1">
+        <ScriptTag value="latn"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=1 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=4 -->
+      <Lookup index="0">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="2">
+          <Coverage Format="2">
+            <Glyph value="uni1369"/>
+            <Glyph value="uni136A"/>
+            <Glyph value="uni136B"/>
+            <Glyph value="uni136C"/>
+            <Glyph value="uni136D"/>
+            <Glyph value="uni136E"/>
+            <Glyph value="uni136F"/>
+            <Glyph value="uni1370"/>
+            <Glyph value="uni1371"/>
+            <Glyph value="uni1372"/>
+            <Glyph value="uni1373"/>
+            <Glyph value="uni1374"/>
+            <Glyph value="uni1375"/>
+            <Glyph value="uni1376"/>
+            <Glyph value="uni1377"/>
+            <Glyph value="uni1378"/>
+            <Glyph value="uni1379"/>
+            <Glyph value="uni137A"/>
+            <Glyph value="uni137B"/>
+            <Glyph value="uni137C"/>
+          </Coverage>
+          <BacktrackClassDef Format="2">
+            <ClassDef glyph="uni1369.init" class="2"/>
+            <ClassDef glyph="uni1369.medi" class="2"/>
+            <ClassDef glyph="uni136A.init" class="2"/>
+            <ClassDef glyph="uni136A.medi" class="2"/>
+            <ClassDef glyph="uni136B.init" class="2"/>
+            <ClassDef glyph="uni136B.medi" class="2"/>
+            <ClassDef glyph="uni136C.init" class="2"/>
+            <ClassDef glyph="uni136C.medi" class="2"/>
+            <ClassDef glyph="uni136D.init" class="2"/>
+            <ClassDef glyph="uni136D.medi" class="2"/>
+            <ClassDef glyph="uni136E.init" class="2"/>
+            <ClassDef glyph="uni136E.medi" class="2"/>
+            <ClassDef glyph="uni136F.init" class="2"/>
+            <ClassDef glyph="uni136F.medi" class="2"/>
+            <ClassDef glyph="uni1370.init" class="2"/>
+            <ClassDef glyph="uni1370.medi" class="2"/>
+            <ClassDef glyph="uni1371.init" class="2"/>
+            <ClassDef glyph="uni1371.medi" class="2"/>
+            <ClassDef glyph="uni1372.init" class="2"/>
+            <ClassDef glyph="uni1372.medi" class="2"/>
+            <ClassDef glyph="uni1373.init" class="2"/>
+            <ClassDef glyph="uni1373.medi" class="2"/>
+            <ClassDef glyph="uni1374.init" class="2"/>
+            <ClassDef glyph="uni1374.medi" class="2"/>
+            <ClassDef glyph="uni1375.init" class="2"/>
+            <ClassDef glyph="uni1375.medi" class="2"/>
+            <ClassDef glyph="uni1376.init" class="2"/>
+            <ClassDef glyph="uni1376.medi" class="2"/>
+            <ClassDef glyph="uni1377.init" class="2"/>
+            <ClassDef glyph="uni1377.medi" class="2"/>
+            <ClassDef glyph="uni1378.init" class="2"/>
+            <ClassDef glyph="uni1378.medi" class="2"/>
+            <ClassDef glyph="uni1379.init" class="2"/>
+            <ClassDef glyph="uni1379.medi" class="2"/>
+            <ClassDef glyph="uni137A.init" class="2"/>
+            <ClassDef glyph="uni137A.medi" class="2"/>
+            <ClassDef glyph="uni137B.init" class="2"/>
+            <ClassDef glyph="uni137B.medi" class="2"/>
+            <ClassDef glyph="uni137C.init" class="2"/>
+            <ClassDef glyph="uni137C.medi" class="2"/>
+          </BacktrackClassDef>
+          <InputClassDef Format="2">
+            <ClassDef glyph="uni1369" class="1"/>
+            <ClassDef glyph="uni136A" class="1"/>
+            <ClassDef glyph="uni136B" class="1"/>
+            <ClassDef glyph="uni136C" class="1"/>
+            <ClassDef glyph="uni136D" class="1"/>
+            <ClassDef glyph="uni136E" class="1"/>
+            <ClassDef glyph="uni136F" class="1"/>
+            <ClassDef glyph="uni1370" class="1"/>
+            <ClassDef glyph="uni1371" class="1"/>
+            <ClassDef glyph="uni1372" class="1"/>
+            <ClassDef glyph="uni1373" class="1"/>
+            <ClassDef glyph="uni1374" class="1"/>
+            <ClassDef glyph="uni1375" class="1"/>
+            <ClassDef glyph="uni1376" class="1"/>
+            <ClassDef glyph="uni1377" class="1"/>
+            <ClassDef glyph="uni1378" class="1"/>
+            <ClassDef glyph="uni1379" class="1"/>
+            <ClassDef glyph="uni137A" class="1"/>
+            <ClassDef glyph="uni137B" class="1"/>
+            <ClassDef glyph="uni137C" class="1"/>
+          </InputClassDef>
+          <LookAheadClassDef Format="2">
+            <ClassDef glyph="uni1369" class="3"/>
+            <ClassDef glyph="uni136A" class="3"/>
+            <ClassDef glyph="uni136B" class="3"/>
+            <ClassDef glyph="uni136C" class="3"/>
+            <ClassDef glyph="uni136D" class="3"/>
+            <ClassDef glyph="uni136E" class="3"/>
+            <ClassDef glyph="uni136F" class="3"/>
+            <ClassDef glyph="uni1370" class="3"/>
+            <ClassDef glyph="uni1371" class="3"/>
+            <ClassDef glyph="uni1372" class="3"/>
+            <ClassDef glyph="uni1373" class="3"/>
+            <ClassDef glyph="uni1374" class="3"/>
+            <ClassDef glyph="uni1375" class="3"/>
+            <ClassDef glyph="uni1376" class="3"/>
+            <ClassDef glyph="uni1377" class="3"/>
+            <ClassDef glyph="uni1378" class="3"/>
+            <ClassDef glyph="uni1379" class="3"/>
+            <ClassDef glyph="uni137A" class="3"/>
+            <ClassDef glyph="uni137B" class="3"/>
+            <ClassDef glyph="uni137C" class="3"/>
+          </LookAheadClassDef>
+          <!-- ChainSubClassSetCount=2 -->
+          <ChainSubClassSet index="1">
+            <!-- ChainSubClassRuleCount=3 -->
+            <ChainSubClassRule index="0">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="2"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=1 -->
+              <LookAhead index="0" value="3"/>
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="2"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+            <ChainSubClassRule index="1">
+              <!-- BacktrackGlyphCount=1 -->
+              <Backtrack index="0" value="2"/>
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=0 -->
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="3"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+            <ChainSubClassRule index="2">
+              <!-- BacktrackGlyphCount=0 -->
+              <!-- InputGlyphCount=1 -->
+              <!-- LookAheadGlyphCount=1 -->
+              <LookAhead index="0" value="3"/>
+              <!-- SubstCount=1 -->
+              <SubstLookupRecord index="0">
+                <SequenceIndex value="0"/>
+                <LookupListIndex value="1"/>
+              </SubstLookupRecord>
+            </ChainSubClassRule>
+          </ChainSubClassSet>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni1369" out="uni1369.init"/>
+          <Substitution in="uni136A" out="uni136A.init"/>
+          <Substitution in="uni136B" out="uni136B.init"/>
+          <Substitution in="uni136C" out="uni136C.init"/>
+          <Substitution in="uni136D" out="uni136D.init"/>
+          <Substitution in="uni136E" out="uni136E.init"/>
+          <Substitution in="uni136F" out="uni136F.init"/>
+          <Substitution in="uni1370" out="uni1370.init"/>
+          <Substitution in="uni1371" out="uni1371.init"/>
+          <Substitution in="uni1372" out="uni1372.init"/>
+          <Substitution in="uni1373" out="uni1373.init"/>
+          <Substitution in="uni1374" out="uni1374.init"/>
+          <Substitution in="uni1375" out="uni1375.init"/>
+          <Substitution in="uni1376" out="uni1376.init"/>
+          <Substitution in="uni1377" out="uni1377.init"/>
+          <Substitution in="uni1378" out="uni1378.init"/>
+          <Substitution in="uni1379" out="uni1379.init"/>
+          <Substitution in="uni137A" out="uni137A.init"/>
+          <Substitution in="uni137B" out="uni137B.init"/>
+          <Substitution in="uni137C" out="uni137C.init"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni1369" out="uni1369.medi"/>
+          <Substitution in="uni136A" out="uni136A.medi"/>
+          <Substitution in="uni136B" out="uni136B.medi"/>
+          <Substitution in="uni136C" out="uni136C.medi"/>
+          <Substitution in="uni136D" out="uni136D.medi"/>
+          <Substitution in="uni136E" out="uni136E.medi"/>
+          <Substitution in="uni136F" out="uni136F.medi"/>
+          <Substitution in="uni1370" out="uni1370.medi"/>
+          <Substitution in="uni1371" out="uni1371.medi"/>
+          <Substitution in="uni1372" out="uni1372.medi"/>
+          <Substitution in="uni1373" out="uni1373.medi"/>
+          <Substitution in="uni1374" out="uni1374.medi"/>
+          <Substitution in="uni1375" out="uni1375.medi"/>
+          <Substitution in="uni1376" out="uni1376.medi"/>
+          <Substitution in="uni1377" out="uni1377.medi"/>
+          <Substitution in="uni1378" out="uni1378.medi"/>
+          <Substitution in="uni1379" out="uni1379.medi"/>
+          <Substitution in="uni137A" out="uni137A.medi"/>
+          <Substitution in="uni137B" out="uni137B.medi"/>
+          <Substitution in="uni137C" out="uni137C.medi"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="1">
+          <Substitution in="uni1369" out="uni1369.fina"/>
+          <Substitution in="uni136A" out="uni136A.fina"/>
+          <Substitution in="uni136B" out="uni136B.fina"/>
+          <Substitution in="uni136C" out="uni136C.fina"/>
+          <Substitution in="uni136D" out="uni136D.fina"/>
+          <Substitution in="uni136E" out="uni136E.fina"/>
+          <Substitution in="uni136F" out="uni136F.fina"/>
+          <Substitution in="uni1370" out="uni1370.fina"/>
+          <Substitution in="uni1371" out="uni1371.fina"/>
+          <Substitution in="uni1372" out="uni1372.fina"/>
+          <Substitution in="uni1373" out="uni1373.fina"/>
+          <Substitution in="uni1374" out="uni1374.fina"/>
+          <Substitution in="uni1375" out="uni1375.fina"/>
+          <Substitution in="uni1376" out="uni1376.fina"/>
+          <Substitution in="uni1377" out="uni1377.fina"/>
+          <Substitution in="uni1378" out="uni1378.fina"/>
+          <Substitution in="uni1379" out="uni1379.fina"/>
+          <Substitution in="uni137A" out="uni137A.fina"/>
+          <Substitution in="uni137B" out="uni137B.fina"/>
+          <Substitution in="uni137C" out="uni137C.fina"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
