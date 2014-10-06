@@ -1,0 +1,33 @@
+{
+  "name": "Noto Sans Ethiopic",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 52535,
+  "fonts": [
+    {
+      "name": "Noto Sans Ethiopic",
+      "style": "normal",
+      "weight": 700,
+      "filename": "NotoSansEthiopic-Bold.ttf",
+      "postScriptName": "NotoSansEthiopic-Bold",
+      "fullName": "Noto Sans Ethiopic Bold",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    },
+    {
+      "name": "Noto Sans Ethiopic",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansEthiopic-Regular.ttf",
+      "postScriptName": "NotoSansEthiopic",
+      "fullName": "Noto Sans Ethiopic",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
